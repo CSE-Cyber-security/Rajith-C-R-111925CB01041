@@ -1,0 +1,22 @@
+[
+  {
+    "Entry ID": "C001",
+    "Expression": "10 + 5",
+    "Result": "15"
+  },
+  {
+    "Entry ID": "C002",
+    "Expression": "20 - 8",
+    "Result": "12"
+  },
+  {
+    "Entry ID": "C003",
+    "Expression": "6 * 7",
+    "Result": "42"
+  },
+  {
+    "Entry ID": "C004",
+    "Expression": "15 / 4",
+    "Result": "3.75"
+  }
+]
